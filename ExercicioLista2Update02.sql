@@ -1,0 +1,1 @@
+﻿UPDATE cidades SET estado = 'SC', cidade = 'Brumenau' WHERE cidade = 'Blumenau';
