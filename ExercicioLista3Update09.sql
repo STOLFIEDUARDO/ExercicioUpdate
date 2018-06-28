@@ -1,0 +1,1 @@
+﻿UPDATE alunos SET nick = 'Dobermann', cor_preferida =  'Rosa' WHERE nick = 'Saxiol';

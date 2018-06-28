@@ -1,0 +1,1 @@
+﻿UPDATE alunos SET cor_preferida = 'Azul', nota_2 = 9.3 WHERE cor_preferida = 'cáqui';
